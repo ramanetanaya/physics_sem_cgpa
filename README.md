@@ -1,4 +1,4 @@
-# physics_sem_cgpa
+# physics_sem_sgpa
 
 This is a simple js application to guess your sgpa in physics sem in first year IIT Kharagpur!!
 
